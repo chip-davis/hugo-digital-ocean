@@ -82,25 +82,22 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "about"
-        url = "/about"
+
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "projects"
         url = "/projects"
-	  [[languages.en.menu.main]]
-	    identifier = "blog"
-		name = "blog"
-		url = "/blog"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+      name = "blog"
+      url = "/blog"
 		
-	  [[languages.en.menu.main]]
-	    identifier = "resume"
-		name = "resume"
-		url = "/resume"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+      name = "resume"
+      url = "/resume"
 		
-	  [[languages.en.menu.main]]
-	    identifier = "contact"
-		name = "contact"
-		url = "/contact"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+      name = "contact"
+      url = "/contact"
